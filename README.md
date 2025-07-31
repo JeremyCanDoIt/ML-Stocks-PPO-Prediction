@@ -2,7 +2,7 @@
 
 ## Quickstart
 
-We also have a google colab we are setting up as we are unsure of how to get jupyterlab to work.
+I also have a google colab I am setting up.
 https://colab.research.google.com/drive/1dHbfDJffQNpgV_MHM8eSgP6VDWPcCaB_?usp=sharing
 However, you must drag in:
 
