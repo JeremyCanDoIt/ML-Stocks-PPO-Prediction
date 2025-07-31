@@ -29,5 +29,5 @@ If the above does not work for whatever reason, contact Jeremy Chang (jeremsc2@u
 
 Then, run stock_prediction.py
 
-We already have a trained model, so the training and saving the model is commented out.
+I already have a trained model, so the training and saving the model is commented out.
 
